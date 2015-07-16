@@ -69,6 +69,7 @@
 <br>
 <br>
     <div class="container">
+        <br>
           <div class="row">
             <div class="col-md-4 portfolio-item">
                     <img class="img-responsive" src="http://placehold.it/700x400" alt="">
@@ -150,6 +151,10 @@
         <?php 
             include('php/pagination.php');
          ?>
+         <br>
+         <div class="home">
+            <a class="btn btn-default btn-lg" href="index.php">Volver a Inicio</a>
+         </div>
         <!-- /.row -->
 
         <hr>

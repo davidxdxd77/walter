@@ -52,6 +52,12 @@ footer {
     width: 600px ; 
     height: 450px;
 }
+.home{
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
 @media screen and (max-width: 950px){
     .business-header {
     width: 100%;
