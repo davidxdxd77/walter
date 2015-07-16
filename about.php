@@ -66,22 +66,45 @@
         </div>
         <!-- /.container -->
     </nav>
-
-
-        <hr>
-
-        <!-- Footer -->
-        <footer>
-            <div class="row">
-                <div class="col-lg-12">
-                    <p>Copyright &copy; Walter Werner 2015</p>
+    <br>
+    <br>
+    <br>
+    <div class="container">
+        <div class="row">
+                <div class="col-sm-4">
+                    <img class="img-circle img-responsive img-center" src="http://placehold.it/300x300" alt="">
+                    <!--http://placehold.it/300x300-->
+                    <h2>Example #1</h2>
+                    <p>These marketing boxes are a great place to put some information. These can contain summaries of what the company does, promotional information, or anything else that is relevant to the company. These will usually be below-the-fold.</p>
                 </div>
-                <div class="col-lg-12">
-                    <p>Web creada por <a href="#">David Rojas</a></p>
+                <div class="col-sm-4">
+                    <img class="img-circle img-responsive img-center" src="http://placehold.it/300x300" alt="">
+                    <h2>Example #2</h2>
+                    <p>The images are set to be circular and responsive. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
+                </div>
+                <div class="col-sm-4">
+                    <img class="img-circle img-responsive img-center" src="http://placehold.it/300x300" alt="">
+                    <h2>Example #3</h2>
+                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
                 </div>
             </div>
             <!-- /.row -->
-        </footer>
+        </div>
+        <hr>
+        <div class="container">
+        <!-- Footer -->
+            <footer>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p>Copyright &copy; Walter Werner 2015</p>
+                    </div>
+                    <div class="col-lg-12">
+                        <p>Web creada por <a href="#">David Rojas</a></p>
+                    </div>
+                </div>
+                <!-- /.row -->
+            </footer>
+        </div>
     </div>
     <!-- /.container -->
 
