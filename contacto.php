@@ -124,7 +124,7 @@
                         </tr>
 
                         <tr>
-                          <td>David</td><td>davidxdxd77@gmail.com</td><td>+56985605689</td>
+                          <td>Cristobal</td><td>xxxxxxxxxxx@gmail.com</td><td>+569123456789</td>
                         </tr>
 
                         <tr>
@@ -132,7 +132,7 @@
                         </tr>
 
                         <tr>
-                          <td>David</td><td>davidxdxd77@gmail.com</td><td>+56985605689</td>
+                          <td>Walter</td><td>xxxxxxxxxxx@gmail.com</td><td>+569123456789</td>
                         </tr>
                     </table>
                     </div>
