@@ -88,6 +88,12 @@
                     <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
                 </div>
             </div>
+            <br>
+            <br>
+            <br>
+                <p>
+                    <a class="btn btn-default btn-lg" href="index.php"> &laquo; Volver</a>
+                </p>
             <!-- /.row -->
         </div>
         <hr>
