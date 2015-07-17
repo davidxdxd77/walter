@@ -7,8 +7,8 @@
 			$database = 'contacto';
 
 			$conect = mysql_connect($host, $user, $pass) or die("conection failed");
-			mysql_select_db($database, $conect) or die("database not found");
-			
+			mysql_select_db($database, $conect) or die("database not found");	
+
 			}
 		}
 	}

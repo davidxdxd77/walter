@@ -77,16 +77,16 @@
                   
                   <h2>Contactanos</h2>
                   <br>
-                  <form class="form-horizontal">
+                  <form class="form-horizontal" action="#" method="POST">
                     <div class="form-group">
                           <div class="col-xs-3">
-                              <input class="form-control" id="firstName" name="firstName" placeholder="Nombre" required="" type="text">
+                              <input class="form-control" id="firstName" name="nombre" placeholder="Nombre" required="" type="text">
                           </div>
                           <div class="col-xs-3">
-                              <input class="form-control" id="middleName" name="firstName" placeholder="Apellido" required="" type="text">
+                              <input class="form-control" id="middleName" name="apellido" placeholder="Apellido" required="" type="text">
                           </div>
                           <div class="col-xs-4">
-                              <input class="form-control" id="lastName" name="lastName" placeholder="Asunto" required="" type="text">
+                              <input class="form-control" id="lastName" name="asunto" placeholder="Asunto" required="" type="text">
                           </div>
                       </div>
                       <div class="form-group">
@@ -94,12 +94,12 @@
                               <input class="form-control" name="email" placeholder="Correo electronico" required="" type="email">
                           </div>
                           <div class="col-xs-5">
-                              <input class="form-control" name="phone" placeholder="Telefono" required="" type="email">
+                              <input class="form-control" name="telefono" placeholder="Telefono" required="" type="email">
                           </div>
                       </div>
                       <div class="form-group">
                           <div class="col-xs-10">
-                              <textarea class="form-control" rows="3" placeholder="Escribe Un Mensaje"></textarea>
+                              <textarea class="form-control" rows="3" placeholder="Escribe Un Mensaje" name="mensaje"></textarea>
                           </div>
                       </div>
                       <div class="form-group">

@@ -149,7 +149,7 @@
         <hr>
 
         <?php 
-            include('php/pagination.php');
+            require('php/pagination.php');
          ?>
          <br>
          <div class="home">
