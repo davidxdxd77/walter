@@ -94,7 +94,7 @@
                               <input class="form-control" name="email" placeholder="Correo electronico" required="" type="email">
                           </div>
                           <div class="col-xs-5">
-                              <input class="form-control" name="telefono" placeholder="Telefono" required="" type="email">
+                              <input class="form-control" name="telefono" placeholder="Telefono" required="" type="number">
                           </div>
                       </div>
                       <div class="form-group">
